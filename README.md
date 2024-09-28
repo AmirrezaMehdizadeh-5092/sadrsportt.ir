@@ -5,21 +5,13 @@
 آدرس پروژه: https://sadrsportt.ir
 
 
-## Front Framework
 
-```bash
-vue3
-```
-
-## back Framework
-
-```bash
-nodejs express
-```
 
 ## Ui framework
 
 ```bash
+vue3
+
 vuetify
 
 tailwind css
@@ -37,7 +29,7 @@ vue-router
 ## Database
 
 ```bash
-mongodb
+mysql
 ```
 
 ## State Managment
@@ -46,9 +38,5 @@ mongodb
 pinia
 ```
 
-## Authentication
 
-```bash
-jwt
-```
 
